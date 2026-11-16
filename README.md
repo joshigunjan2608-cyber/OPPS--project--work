@@ -18,6 +18,9 @@ Subject: Object Oriented Programming (C++)
 9. Custom exception handling (Banking)
 10. CSV file handling using fstream
 
+## Output
+Output screenshots are uploaded in this repository (practical01.png to practical10.png).
+
 ## How to run
 g++ practical_01.cpp -o practical_01
 ./practical_01
