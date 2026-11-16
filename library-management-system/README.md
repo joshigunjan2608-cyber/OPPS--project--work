@@ -77,4 +77,4 @@ g++ -std=c++17 -o library main.cpp
 
 
 ## Screenshots
-![Program output](output.png)
+![Program output](output.png.png)
