@@ -3,7 +3,6 @@ mid-term practicals and project work
 # OOPs with C++ - Mid-Term Practicals
 
 Name: Gunjan Joshi
-Roll No: (apna daalo)
 Subject: Object Oriented Programming (C++)
 
 ## Practicals
